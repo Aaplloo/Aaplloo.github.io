@@ -1,0 +1,32 @@
+html {
+    font-size: 10px;
+    font-family: /* 注释练习 */
+    "Open Sans", sans-serif;
+    background-color: #00539f;
+}
+
+body {
+    width: 600px;
+    margin: auto auto;
+    background-color: aliceblue;
+    padding: auto auto auto 20px;
+    border: 5px solid black;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+p,
+li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+img {
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+}
